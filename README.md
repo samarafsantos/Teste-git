@@ -1,2 +1,2 @@
 # Teste-git
-Não gosto de testes.
+Ok, estamos testando.
